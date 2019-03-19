@@ -1,6 +1,7 @@
 # PI-Vision-Extensibility
 /*Graphic for PI vision - OSISOFT */
 /*
+
 Description
 
 The developed control shows the impacts in a range of time vs the allowed limit.
